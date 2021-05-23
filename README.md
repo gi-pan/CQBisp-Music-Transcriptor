@@ -48,15 +48,15 @@ f0_frame_cell	: Cell of 10 ms spaced frame-elements; each element contains a
 INPUTS ---------------------
  
 path_in		: Absolute path of the folder in which the input .wav file is stored. 
-		  Type the desired folder path, ending with "\", for example 
-		  'C:\CQBisp\Inputs\'.
+		  Type the desired folder path, ending with "\\", for example 
+		  'C:\CQBisp\Inputs\\'.
  
 wavname 	: File name of the input .wav file. The input audio file is supposed to be a PCM .wav file sampled 
 		  at 44.1 kHz, 16 bits.
  
 path_out	: Absolute path of the folder in which the output files will be stored. 
-		  Type the desired folder path, ending with "\", for example 
-		  'C:\CQBisp\Outputs\'.
+		  Type the desired folder path, ending with "\\", for example 
+		  'C:\CQBisp\Outputs\\'.
                   The 'path_out' folder MUST already exist or it MUST have been created before.
 
 
